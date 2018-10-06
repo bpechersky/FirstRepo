@@ -11,5 +11,6 @@ public class YahooSearchTest {
 //        typeRequestInSearchInput();
 //        submitSearch();
 //        printOutAmountOfResult();
+//comments added for git class
     }
 }
